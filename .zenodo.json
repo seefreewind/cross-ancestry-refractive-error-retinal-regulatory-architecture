@@ -1,0 +1,19 @@
+{
+  "title": "Cross-ancestry refractive-error retinal regulatory architecture",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Cross-ancestry refractive-error retinal regulatory architecture"
+    }
+  ],
+  "description": "Project-authored reproducibility code, frozen aggregate outputs and figures for European-East Asian refractive-error genetic-sharing and retinal accessibility analyses. Primary odds ratio 1.119, conditional exact 95% CI 0.867-1.423; matched-permutation P=0.334; block-bootstrap CI 0.821-1.438. This independent archive preserves the analysis and the corrected post-primary uncertainty outputs. No participant-level data, raw GWAS, LD panels, manuscripts or correspondence are included. MIT applies to original code; CC BY 4.0 applies to eligible project-generated tables and figures. Third-party source materials retain their own terms. See LICENSE_SCOPE.md. Project attribution is not a claim of anonymity or removal of earlier publication history.",
+  "license": "mit",
+  "version": "1.0.0",
+  "keywords": [
+    "refractive error",
+    "retina",
+    "cross-ancestry genetics",
+    "chromatin accessibility",
+    "reproducibility"
+  ]
+}

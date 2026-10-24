@@ -1,0 +1,4 @@
+estimand	estimate	ci95_low	ci95_high	method	blocks	replicates	seed
+odds_ratio	1.1190470774746328	0.8209145677253797	1.4377813303277567	paired_whole_block_percentile_bootstrap	200	2000	20260912
+risk_difference	0.005813133637736369	-0.008892581315081369	0.021007003787667185	paired_whole_block_percentile_bootstrap	200	2000	20260912
+mean_difference	0.035121873551979155	-0.0740587339580483	0.14973388394574375	paired_whole_block_percentile_bootstrap	200	2000	20260912

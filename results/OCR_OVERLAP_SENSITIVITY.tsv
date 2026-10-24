@@ -1,0 +1,2 @@
+case_N	comparator_N	case_events	comparator_events	case_fraction	comparator_fraction	odds_ratio	ci95_low	ci95_high	fisher_P	analysis	mean_difference	mannwhitney_P	ci_method	threshold
+1069	379279	65	19653	0.0608044901777362	0.05181673649213376	1.1846822246454065	0.9068700988738394	1.5239725825756807	0.18885984912990578	OCR-overlap-restricted sensitivity analysis	0.04373055541699733	0.855313108845539	conditional_exact_95pct	frozen_genomewide_top_5pct_chi2_het
